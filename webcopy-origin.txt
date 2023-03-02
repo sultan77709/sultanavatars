@@ -1,0 +1,40 @@
+Uri: https://cdn.carbonads.com/carbon.js?serve=CESIK2QL&placement=getavataaarscom
+File Name: C:\Downloaded Web Sites\getavataaars.com\carbon.js
+Content Type: application/javascript
+
+Uri: https://getavataaars.com/
+File Name: C:\Downloaded Web Sites\getavataaars.com\index.htm
+Content Type: text/html
+
+Uri: https://getavataaars.com/favicon.png
+File Name: C:\Downloaded Web Sites\getavataaars.com\favicon.png
+Content Type: image/png
+
+Uri: https://getavataaars.com/manifest.json
+File Name: C:\Downloaded Web Sites\getavataaars.com\manifest.json
+Content Type: application/json
+
+Uri: https://getavataaars.com/static/css/main.83d879d8.css
+File Name: C:\Downloaded Web Sites\getavataaars.com\static\css\main.83d879d8.css
+Content Type: text/css
+
+Uri: https://getavataaars.com/static/js/main.330f35e0.js
+File Name: C:\Downloaded Web Sites\getavataaars.com\static\js\main.330f35e0.js
+Content Type: application/javascript
+
+Uri: https://js-lib.polisnetwork.io/display.js
+File Name: C:\Downloaded Web Sites\getavataaars.com\display.js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\getavataaars.com\bootstrap\4.0.0-beta.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://plausible.io/js/plausible.js
+File Name: C:\Downloaded Web Sites\getavataaars.com\js\plausible.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/6c3a90ea1a.js
+File Name: C:\Downloaded Web Sites\getavataaars.com\6c3a90ea1a.js
+Content Type: text/javascript
+
